@@ -167,10 +167,10 @@ All pivot outputs were converted into charts (bar, pie, sparklines) and assemble
 ```
 Hospital-ER-Dashboard-Excel-Project/
 │
-├── README.md                                # Project documentation (this file)
-├── Excel-Project_2.xlsx                     # Final Excel file (Data, Model, Pivots, Dashboard)
-├── Hospital_Emergency_Room_Data.csv         # Raw dataset
-├── Problem_Statement.pptx                   # Business requirement / problem statement deck
+├── README.md                                         # Project documentation (this file)
+├── Excel-Project_2.xlsx                              # Final Excel file (Data, Model, Pivots, Dashboard)
+├── Hospital_Emergency_Room_Data.csv                  # Raw dataset
+├── Hospital-ER-Dashboard_Problem-Statement.pdf       # Business requirement / problem statement deck
 │
 └── screenshots/
     ├── final_dashboard.png                  # Final interactive dashboard
