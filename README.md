@@ -97,7 +97,7 @@ A **Calendar Table** was created using Power Query's `List.Dates` function to en
 
 The Hospital Emergency Room dataset was then related to the `Calendar_Table` on the **Date** field, forming a clean one-to-many relationship (Calendar → Fact Table) inside Power Pivot's Data Model.
 
-![Table Relationships](screenshots/table_relationships.png)
+![Table Relationships](https://github.com/Shivamkr-ggv/hospital-emergency-room-dashboard-excel/blob/main/table_relationships.png)
 
 The full data model, including all fields loaded into Power Pivot, is shown below:
 
