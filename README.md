@@ -2,7 +2,7 @@
 
 An end-to-end Excel dashboard project that analyzes Hospital Emergency Room operations — patient admissions, wait times, satisfaction scores, and department referrals — to help hospital stakeholders make faster, data-driven decisions.
 
-![Final Dashboard](screenshots/final_dashboard.png)
+![Final Dashboard](https://github.com/Shivamkr-ggv/hospital-emergency-room-dashboard-excel/blob/main/final_dashboard.png)
 
 ---
 
