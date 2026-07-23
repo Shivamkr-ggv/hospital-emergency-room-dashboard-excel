@@ -101,7 +101,7 @@ The Hospital Emergency Room dataset was then related to the `Calendar_Table` on 
 
 The full data model, including all fields loaded into Power Pivot, is shown below:
 
-![Power Pivot Data Model](screenshots/power_pivot_data_model.png)
+![Power Pivot Data Model](https://github.com/Shivamkr-ggv/hospital-emergency-room-dashboard-excel/blob/main/power_pivot_data_model.png)
 
 ### 3. DAX Calculated Columns
 Two custom calculated columns were created using DAX to enable grouped analysis:
