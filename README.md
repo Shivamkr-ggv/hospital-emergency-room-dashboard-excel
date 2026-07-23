@@ -130,7 +130,7 @@ Multiple PivotTables were built on top of the data model to summarize:
 - Patient count by gender, age group, and department referral
 - Day-wise trend of patient volume, average wait time, and satisfaction score across the year
 
-![Pivot Table Report](screenshots/pivot_table.png)
+![Pivot Table Report](https://github.com/Shivamkr-ggv/hospital-emergency-room-dashboard-excel/blob/main/pivot_table.png)
 
 ### 5. Dashboard Design
 All pivot outputs were converted into charts (bar, pie, sparklines) and assembled onto a single dashboard sheet with a **Year slicer (2023/2024)** and **Month buttons (Jan–Dec)** for interactivity, giving stakeholders a self-service reporting tool.
